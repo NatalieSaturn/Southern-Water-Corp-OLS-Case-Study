@@ -9,7 +9,7 @@ For this particular two part case study I used the libraries below to explore pu
 - Pandas 
 - statsmodels.api 
 
-The data is split into two files so we're able to perform rolling standard deviation calculations. I was able to validate my predictions using a multivariate regression model. 
+The data is intentionally split into two files so that I'm able to perform rolling standard deviation calculations. I was able to validate my predictions using a multivariate regression model. 
 
 
 In this project I performed the following: 
